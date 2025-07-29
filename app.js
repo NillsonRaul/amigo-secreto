@@ -51,7 +51,7 @@ function sortearAmigo(){
     if(nombreAmigos.length === 0 ){
         alert("No se puede hacer un sorteo sin nombres.") 
     }else{
-        asignarnombresLista('#resultado', nombreAmigos[amigoSeleccionado]);
+        asignarnombresLista('#resultado', `el amigo secreto sorteado es: ${nombreAmigos[amigoSeleccionado]}`);
         limpiarInputNombre('listaAmigos');
         nombreAmigos = [];
 
