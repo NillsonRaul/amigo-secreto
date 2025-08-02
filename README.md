@@ -46,13 +46,13 @@ Está hecho en JavaScript puro, sin frameworks, para practicar lógica de progra
   cd amigo-secreto
   ```
 <h3>Uso</h3>
-1.  Abre index.html en tu navegador web.
+1. Abre index.html en tu navegador web.
 
-2.  Escribe un nombre en la casilla y haz clic en Añadir.
+2. Escribe un nombre en la casilla y haz clic en Añadir.
    
-3.  Repite hasta tener todos los nombres.
+3. Repite hasta tener todos los nombres.
    
-4.  Haz clic en Sortear amigo para ver el resultado.
+4. Haz clic en Sortear amigo para ver el resultado.
 
 <h3>Tecnologías</h3>
 
