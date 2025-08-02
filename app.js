@@ -7,6 +7,11 @@ let cantidadAmigos = 0;
 
 //funcion para agregar amigos al array
 function agregarAmigo() {
+    if(nombreAmigos.length === 0 ){
+        asignarnombresLista('#resultado', "");
+    }
+    
+
     nombreAmigo = document.getElementById('amigo').value;
     nombreAmigo.length === 0 ?   alert("Por favor, inserte un nombre") : nombreAmigos.push(nombreAmigo);
 
@@ -46,6 +51,7 @@ function mostrarAmigos(amigos) {
   
 }
 
+//Funcion para sortear amigo secreto
 function sortearAmigo(){
     let amigoSeleccionado = Math.floor(Math.random()*cantidadAmigos);
     if(nombreAmigos.length === 0 ){
@@ -54,6 +60,7 @@ function sortearAmigo(){
         asignarnombresLista('#resultado', `el amigo secreto sorteado es: ${nombreAmigos[amigoSeleccionado]}`);
         limpiarInputNombre('listaAmigos');
         nombreAmigos = [];
+
 
     }
    
