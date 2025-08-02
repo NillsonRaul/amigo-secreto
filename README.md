@@ -15,7 +15,7 @@
 - [Uso](#uso)
 - [Tecnologías](#tecnologías)
 - [Autores](#autores)
-- [Licencia](#licencia)
+
 
 ## Descripción
 
@@ -45,7 +45,7 @@ Está hecho en JavaScript puro, sin frameworks, para practicar lógica de progra
   ```bash
   cd amigo-secreto
   ```
-<h3>Uso</h3>
+## Uso
 
 *  Abre index.html en tu navegador web.
 
@@ -55,7 +55,7 @@ Está hecho en JavaScript puro, sin frameworks, para practicar lógica de progra
    
 *  Haz clic en Sortear amigo para ver el resultado.
 
-<h3>Tecnologías</h3>
+## Tecnologías
 
 JavaScript (ES6)
 
@@ -63,6 +63,7 @@ HTML5
 
 CSS3
 
-<h3>Autores </h3>✒️
+## Autores ✒️
 Nillson Castillo
+
 GitHub: @NillsonRaul
