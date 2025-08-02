@@ -46,6 +46,7 @@ Está hecho en JavaScript puro, sin frameworks, para practicar lógica de progra
   cd amigo-secreto
   ```
 <h3>Uso</h3>
+
 *  Abre index.html en tu navegador web.
 
 *  Escribe un nombre en la casilla y haz clic en Añadir.
