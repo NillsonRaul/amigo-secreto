@@ -42,7 +42,8 @@ Está hecho en JavaScript puro, sin frameworks, para practicar lógica de progra
    git clone https://github.com/NillsonRaul/amigo-secreto.git
 
 2. Entra en la carpeta del proyecto:
-cd amigo-secreto
+  ```bash
+  cd amigo-secreto
 
 Uso
 1.  Abre index.html en tu navegador web.
